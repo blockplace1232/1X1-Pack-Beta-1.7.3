@@ -3,7 +3,7 @@ A 1X1 Style Texture pack for Beta 1.7.3.
 
 ## Installation Instructions
 1. Locate your `.minecraft` folder `/home/x/.minecraft` on Linux, `%appdata%/.minecraft` on Windows or elsewhere if you are using a third-party Launcher.
-2. Find your "resource packs" folder. NOT TEXTURE PACKS!
+2. Find your "texture packs" folder. 
 3. Move the .zip from Releases too the directory.
 And thats it :3
 
